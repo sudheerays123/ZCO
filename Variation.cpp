@@ -22,9 +22,6 @@ using namespace std;
 
 int main() {
 
-	//freopen("input.in","r",stdin);
-	//freopen("input.out","w",stdout);
-
 	ll n,k;
 	cin in n in k;
 
