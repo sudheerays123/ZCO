@@ -43,11 +43,6 @@ ll findAns(vi a , vi b , ll k , ll n) {
 
 int main() {
 
-#ifndef ONLINE_JUDGE
-	freopen("input.txt", "r", stdin);
-	freopen("output.txt", "w", stdout);
-#endif
-
 	ll n,k;
 	cin in n in k;
 
