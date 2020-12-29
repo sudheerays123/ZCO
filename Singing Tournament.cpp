@@ -20,14 +20,8 @@ using namespace std;
 #define mmax(x,i) x = max(x,i)
 #define mmin(x,i) x = min(x,i)
 
-int main()
-{
-
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-#endif
-
+int main(){
+    
     tc
     {
         ll n;
