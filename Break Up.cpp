@@ -32,10 +32,7 @@ bool isPalindrome(vi v , ll start , ll end ){
 }
 
 int main() {
-
-	//freopen("input.in","r",stdin);
-	//freopen("input.out","w",stdout);
-
+	
 	ll n;
 	cin in n;
 
